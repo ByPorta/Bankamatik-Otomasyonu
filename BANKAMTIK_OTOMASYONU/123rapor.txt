@@ -1,0 +1,8 @@
+Para Cekildi 
+Bakiye Sorgulandi 
+Para yatirildi
+Bakiye Sorgulandi 
+Havale gonderildi 
+Para donusumu yapildi.
+Fatura islemi Yapildi.
+Kredi cekme islemi basarili bir sekilde yapildi. 
